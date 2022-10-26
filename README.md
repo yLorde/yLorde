@@ -63,5 +63,4 @@ Sim, faço bots para discord.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<canvas style="widht: 800px; color: black;">
-</canvas>
+![chrome offline game cast](assets/screenshot.gif)
