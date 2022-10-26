@@ -63,4 +63,4 @@ Sim, faço bots para discord.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![chrome offline game cast](assets/screenshot.gif)
+![chrome offline game cast](https://github.com/AlparslanErol/Dino-Game/blob/master/assets/screenshot.gif)
