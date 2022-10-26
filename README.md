@@ -1,6 +1,33 @@
-### Olá, me chamo Lord. 👋👋
+<h2>Lord's GitHub Perfil</h2>
+<br>
+<p>Um pouco sobre mim:</p>
 
-#
+<p>
+    Tenho 17 anos, estudo programação e desenvolvimento a cerca de 3 anos <br>
+    Comecei por uma curiosidade em saber como seria a sensação de programar<br>
+</p>
+
+<p>
+
+Uso apenas algumas linguagens básicas, como por exemplo:
+- JavaScript
+- Python
+- Node.js
+- Mongoose
+
+E as vezes algumas aplicações web usando:
+- HTML/CSS
+- Express.js
+- PHP
+
+O node_module que eu mais tenho facilidade é o:
+
+    discord.js
+
+Sim, faço bots para discord.
+</p>
+
+<br>
 
 ## Algumas Redes Sociais:
 
@@ -10,3 +37,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tal.do._lord/?theme=dark)
 
 
+## Meus Status:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yLorde&show_icons=true&theme=dark)
+
+## Linguagens mais usadas:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
