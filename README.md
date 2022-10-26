@@ -3,22 +3,40 @@
 <p>Um pouco sobre mim:</p>
 
 <p>
-    Tenho 17 anos, estudo programação e desenvolvimento a cerca de 3 anos <br>
-    Comecei por uma curiosidade em saber como seria a sensação de programar<br>
+    Tenho 17 anos, estudo programação e desenvolvimento a cerca de 3 anos;<br>
+    Comecei por uma curiosidade em saber como seria a sensação de programar;<br>
+</p>
+
+<p>
+Já fiz algumas coisas como:
+
+- Script para correção de bugs em API;
+- Minecraft plugin (1.8.9 e 1.18.2);
+- Bots para comunidades de discord (Moderação e entreterimento);
 </p>
 
 <p>
 
 Uso apenas algumas linguagens básicas, como por exemplo:
 - JavaScript
+- ECMA Script
+- Java
 - Python
 - Node.js
-- Mongoose
 
 E as vezes algumas aplicações web usando:
 - HTML/CSS
 - Express.js
 - PHP
+
+E também algumas tecnologias como:
+
+- MySQL
+- Mongo
+- sqlite
+
+Costumo usar como database/banco de dados:
+- Mongoose
 
 O node_module que eu mais tenho facilidade é o:
 
