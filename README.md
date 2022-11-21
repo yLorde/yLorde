@@ -40,7 +40,7 @@ Costumo usar como database/banco de dados:
 
 O node_module que eu mais tenho facilidade é o:
 
-    discord.js
+    discord.js v11/v12/v13
 
 Sim, faço bots para discord.
 </p>
