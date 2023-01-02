@@ -17,17 +17,18 @@ Já fiz algumas coisas como:
 
 <p>
 
-Uso apenas algumas linguagens básicas, como por exemplo:
+Uso algumas linguagens, como por exemplo:
 - JavaScript
 - ECMA Script
 - Java
 - Python
+
+Tenho noção de algumas FrameWorks:
 - Node.js
 
 E as vezes algumas aplicações web usando:
 - HTML/CSS
 - Express.js
-- PHP
 
 E também algumas tecnologias como:
 
@@ -35,8 +36,12 @@ E também algumas tecnologias como:
 - Mongo
 - sqlite
 
-Costumo usar como database/banco de dados:
-- Mongoose
+Estou estudando atualmente:
+- TypeScript
+- React.Js
+- Adonis.Js
+- Prisma.Js
+- Nest.js
 
 O node_module que eu mais tenho facilidade é o:
 
