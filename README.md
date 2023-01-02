@@ -17,31 +17,39 @@ Já fiz algumas coisas como:
 
 <p>
 
-Uso algumas linguagens, como por exemplo:
+Linguagens que eu uso:
 - JavaScript
-- ECMA Script
 - Java
 - Python
+    
+Linguaguens que eu estou estudando:
+- TypeScript
+   
+Linguagens que pretendo aprender:
+- C#
+- C++
+- Lua
 
-Tenho noção de algumas FrameWorks:
+Frameworks que eu uso:
 - Node.js
+- Express
+    
+Frameworks que eu estou estudando:
+- React
+- Adonis
+- Prisma
+- Nest
 
-E as vezes algumas aplicações web usando:
-- HTML/CSS
-- Express.js
+Para Web:
+- HTML 5
+- CSS 3
+- Material UI
 
-E também algumas tecnologias como:
+Banco de dados que uso:
 
 - MySQL
-- Mongo
+- MongoDB
 - sqlite
-
-Estou estudando atualmente:
-- TypeScript
-- React.Js
-- Adonis.Js
-- Prisma.Js
-- Nest.js
 
 </p>
 
