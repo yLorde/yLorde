@@ -43,11 +43,6 @@ Estou estudando atualmente:
 - Prisma.Js
 - Nest.js
 
-O node_module que eu mais tenho facilidade é o:
-
-    discord.js v11/v12/v13
-
-Sim, faço bots para discord.
 </p>
 
 <br>
