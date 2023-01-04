@@ -24,9 +24,6 @@ Linguagens que eu uso:
 - Java
 - Python
 - TypeScript
-    
-Linguaguens que eu estou estudando:
-- 
    
 Linguagens que pretendo aprender:
 - C#
