@@ -23,9 +23,10 @@ Linguagens que eu uso:
 - JavaScript
 - Java
 - Python
+- TypeScript
     
 Linguaguens que eu estou estudando:
-- TypeScript
+- 
    
 Linguagens que pretendo aprender:
 - C#
@@ -33,7 +34,6 @@ Linguagens que pretendo aprender:
 - Lua
 
 Frameworks que eu uso:
-- Node.js
 - Express
     
 Frameworks que eu estou estudando:
