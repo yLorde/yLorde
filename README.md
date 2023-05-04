@@ -32,9 +32,9 @@ Linguagens que pretendo aprender:
 
 Frameworks que eu uso:
 - Express
+- React.js
     
 Frameworks que eu estou estudando:
-- React
 - Adonis
 - Prisma
 - Nest
