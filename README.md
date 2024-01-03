@@ -3,7 +3,7 @@
 <p>Um pouco sobre mim:</p>
 
 <p>
-    Tenho 18 anos, estudo programação e desenvolvimento há `4 anos`;<br>
+    Tenho 18 anos, estudo programação e desenvolvimento há <b>4 anos</b>;<br>
     Comecei por uma curiosidade em saber como seria a sensação de programar;<br>
     Tenho mais especialidade em `back-end` e partes que não vão ter uma interface em sí; <br/>
 </p>
@@ -14,31 +14,31 @@ Já fiz algumas coisas como:
 - Script para correção de bugs em API;
 - Minecraft plugin (1.8.9 e 1.18.2);
 - Bots de discord para moderação e utilidades, desde a versão `v12`;
-- Site para um servidor de minecraft (Site + loja + ativação automática de VIP)
+- Site para um servidor de minecraft (Site + loja + ativação automática de VIP);
   
 </p>
 
 <h3>Atualmente estou fazendo:</h3>
 <p>
-        Uma aplicação web usando React com template `TypeScript` e interface usando `Material UI` <br/>
-        Caso você queira acompanhar o andamento em tempo real <a href="https://www.blackmatter.agency/">Clique aqui</a> <br/>
-        Meu back-end é feito usando `JavaScript` e `Express` <br/>
-        Estou usando o banco de dados MongoDB mas futuramente pretendo alterar para MySQL <br/>
+        Uma aplicação web usando React com template <b>TypeScript</b> e interface usando <b>Material UI</b>; <br/>
+        Caso você queira acompanhar o andamento em tempo real <a href="https://www.blackmatter.agency/">Clique aqui</a>; <br/>
+        Meu back-end é feito usando <b>JavaScript</b> e <b>Express</b>; <br/>
+        Estou usando o banco de dados MongoDB mas futuramente pretendo alterar para MySQL; <br/>
 </p>
 
 <p>
 
 Linguagens que eu uso:
-- JavaScript
-- TypeScript
-- Java
-- Python
+- JavaScript;
+- TypeScript;
+- Java;
+- Python;
 
 Frameworks que eu uso:
-- React
-- Express
-- Adonis
-- Nest
+- React;
+- Express;
+- Adonis;
+- Nest;
 </p>
 
 <br>
