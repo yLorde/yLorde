@@ -3,9 +3,9 @@
 <p>Um pouco sobre mim:</p>
 
 <p>
-    Tenho 18 anos, estudo programação e desenvolvimento há 4 anos;<br>
+    Tenho 18 anos, estudo programação e desenvolvimento há `4 anos`;<br>
     Comecei por uma curiosidade em saber como seria a sensação de programar;<br>
-    Uso Visual Studio Code, Intellij;<br>
+    Tenho mais especialidade em `back-end`. Partes onde não vão ter uma interface em sí.
 </p>
 
 <p>
@@ -13,8 +13,9 @@ Já fiz algumas coisas como:
 
 - Script para correção de bugs em API;
 - Minecraft plugin (1.8.9 e 1.18.2);
-- Bots para comunidades de discord (Moderação e entreterimento);
-- Sites de treinamento com registro/login
+- Bots de discord para moderação e utilidades, desde a versão `v12`;
+- Site para um servidor de minecraft (Site + loja + ativação automática de VIP)
+  
 </p>
 
 <p>
@@ -58,6 +59,3 @@ Frameworks que eu uso:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Gosto também desse joguinho:
-![chrome offline game cast](https://github.com/AlparslanErol/Dino-Game/blob/master/assets/screenshot.gif)
