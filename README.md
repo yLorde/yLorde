@@ -14,6 +14,15 @@ Já fiz algumas coisas como:
 - Script para correção de bugs em API;
 - Minecraft plugin (1.8.9 e 1.18.2);
 - Bots para comunidades de discord (Moderação e entreterimento);
+- Sites de treinamento com registro/login
+</p>
+
+<p>
+    <h3>Atual estou fazendo:</h3>
+    <h5>
+        Uma aplicação web usando React com template TypeScript e interface usando Material UI;
+        Caso você queira acompanhar o andamento em tempo real <a href="https://www.blackmatter.agency/">Clique aqui</a>
+    </h5>
 </p>
 
 <p>
