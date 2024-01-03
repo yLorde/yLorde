@@ -3,7 +3,7 @@
 <p>Um pouco sobre mim:</p>
 
 <p>
-    Tenho 18 anos, estudo programação e desenvolvimento há 3 anos;<br>
+    Tenho 18 anos, estudo programação e desenvolvimento há 4 anos;<br>
     Comecei por uma curiosidade em saber como seria a sensação de programar;<br>
     Uso Visual Studio Code, Intellij;<br>
 </p>
