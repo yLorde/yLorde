@@ -51,6 +51,8 @@ Frameworks que eu uso:
         Discord: @ylorde <br/>
         Email: lordgamerbot@gmail.com <br/>
     </h4>
+
+    <br/>
 </p>
 
 ## Meus Status:
