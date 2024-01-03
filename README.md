@@ -31,9 +31,9 @@ Já fiz algumas coisas como:
 
 Linguagens que eu uso:
 - JavaScript
+- TypeScript
 - Java
 - Python
-- TypeScript
 
 Frameworks que eu uso:
 - React
