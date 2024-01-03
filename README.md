@@ -36,9 +36,10 @@ Linguagens que eu uso:
 - TypeScript
 
 Frameworks que eu uso:
+- React
 - Express
-- React.js
-
+- Adonis
+- Nest
 </p>
 
 <br>
