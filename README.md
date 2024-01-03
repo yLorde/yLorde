@@ -20,12 +20,12 @@ Já fiz algumas coisas como:
 
 <p>
     <h3>Atualmente estou fazendo:</h3>
-    <h5>
+    <p>
         Uma aplicação web usando React com template `TypeScript e interface usando `Material UI`; <br/>
         Caso você queira acompanhar o andamento em tempo real <a href="https://www.blackmatter.agency/">Clique aqui</a> <br/>
         Meu back-end é feito usando `JavaScript` e `Express`; <br/>
         Estou usando o banco de dados MongoDB mas futuramente pretendo alterar para MySQL <br/>
-    </h5>
+    </p>
 </p>
 
 <p>
