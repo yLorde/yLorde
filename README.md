@@ -23,7 +23,7 @@ Já fiz algumas coisas como:
         Uma aplicação web usando React com template TypeScript e interface usando Material UI; <br/>
         Caso você queira acompanhar o andamento em tempo real <a href="https://www.blackmatter.agency/">Clique aqui</a> <br/>
         Meu back-end é feito usando JavaScript e Express. <br/>
-        Estou usando o banco de dados MongoDB mas tenho previsões para trocar futuramente para MySQL <br/>
+        Estou usando o banco de dados MongoDB mas futuramente pretendo alterar para MySQL <br/>
     </h5>
 </p>
 
