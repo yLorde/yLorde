@@ -46,13 +46,9 @@ Frameworks que eu uso:
 
 <h2>Informações para contato: </h2>
 <h4>Discord</h4>
-<p>
-    @ylorde
-</p>
+<b>@ylorde</b>
 <h4>Email</h4>
-<p>
-    lordgamerbot@gmail.com
-</p>
+<b>lordgamerbot@gmail.com</b>
 
 ## Meus Status:
 
