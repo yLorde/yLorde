@@ -47,10 +47,11 @@ Frameworks que eu uso:
 <p>
     <h2>Infomações para contato:</h2> 
     <br/>
-    <h4>Discord</h4>
+    <h4>Discord: </h4> <br/>
     @ylorde
-    <h4>Email:</h4>
+    <h4>Email:</h4> <br/>
     lordgamerbot@gmail.com
+    <br/>
 </p>
 
 ## Meus Status:
