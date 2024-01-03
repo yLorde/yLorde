@@ -48,7 +48,7 @@ Frameworks que eu uso:
 <br/>
 
 `Discord` @ylorde <br/>
-`Email`lordgamerbot@gmail.com <br/>
+`Email` lordgamerbot@gmail.com <br/>
 
 ## Meus Status:
 
