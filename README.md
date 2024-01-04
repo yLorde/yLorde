@@ -28,6 +28,19 @@
         Estou usando o banco de dados MongoDB mas futuramente pretendo alterar para MySQL! <br/>
 </p>
 
+<h2>Minhas preferências:</h2>
+
+<h4>IDE</h4>
+
+<p>
+
+- Visual Studio Code;
+- Sublime Text;
+- IntelliJ Idea;
+- PyCharm;
+    
+</p>
+
 <h4>Linguagens que eu uso:</h4>
 
 <p>
