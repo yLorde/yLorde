@@ -41,7 +41,7 @@
     
 </p>
 
-<h4>Linguagens que eu uso:</h4>
+<h4>Linguagens</h4>
 
 <p>
     
@@ -52,7 +52,7 @@
 
 </p>
 
-<h4>Frameworks que eu uso:</h4>
+<h4>Frameworks</h4>
 
 <p>
     
