@@ -1,6 +1,6 @@
 <h2>Lord's GitHub Perfil</h2>
 <br>
-<p>Um pouco sobre mim:</p>
+<h2>Um pouco sobre mim:</h2>
 
 <p>
     Tenho 18 anos, estudo programação e desenvolvimento há <b>4 anos</b>.<br>
@@ -8,9 +8,8 @@
     Tenho mais especialidade em `back-end` e partes que não vão ter uma interface em sí. <br/>
 </p>
 
+<h3>Já fiz algumas coisas como:</h3>
 <p>
-Já fiz algumas coisas como:
-
 - Script para correção de bugs em API;
 - Minecraft plugin (1.8.9 e 1.18.2);
 - Bots de discord para moderação e utilidades, desde a versão `v12`;
@@ -26,15 +25,16 @@ Já fiz algumas coisas como:
         Estou usando o banco de dados MongoDB mas futuramente pretendo alterar para MySQL! <br/>
 </p>
 
+<h4>Linguagens que eu uso:</h4>
 <p>
-
-Linguagens que eu uso:
 - JavaScript;
 - TypeScript;
 - Java;
 - Python;
+</p>
 
-Frameworks que eu uso:
+<h4>Frameworks que eu uso:</h4>
+<p>
 - React;
 - Express;
 - Adonis;
