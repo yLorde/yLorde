@@ -8,7 +8,8 @@
     Tenho mais especialidade em `back-end` e partes que não vão ter uma interface em sí. <br/>
 </p>
 
-<h3>Já fiz algumas coisas como:</h3>
+<h2>Já fiz algumas coisas como:</h2>
+
 <p>
     
 - Script para correção de bugs em API;
@@ -18,7 +19,8 @@
   
 </p>
 
-<h3>Atualmente estou fazendo:</h3>
+<h2>Atualmente estou fazendo:</h2>
+
 <p>
         Uma aplicação web usando React com template <b>TypeScript</b> e interface usando <b>Material UI</b>. <br/>
         Caso você queira acompanhar o andamento em tempo real <a href="https://www.blackmatter.agency/">Clique aqui</a>. <br/>
@@ -27,6 +29,7 @@
 </p>
 
 <h4>Linguagens que eu uso:</h4>
+
 <p>
     
 - JavaScript;
@@ -37,6 +40,7 @@
 </p>
 
 <h4>Frameworks que eu uso:</h4>
+
 <p>
     
 - React;
