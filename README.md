@@ -10,6 +10,7 @@
 
 <h3>Já fiz algumas coisas como:</h3>
 <p>
+    
 - Script para correção de bugs em API;
 - Minecraft plugin (1.8.9 e 1.18.2);
 - Bots de discord para moderação e utilidades, desde a versão `v12`;
@@ -27,18 +28,22 @@
 
 <h4>Linguagens que eu uso:</h4>
 <p>
+    
 - JavaScript;
 - TypeScript;
 - Java;
 - Python;
+
 </p>
 
 <h4>Frameworks que eu uso:</h4>
 <p>
+    
 - React;
 - Express;
 - Adonis;
 - Nest;
+  
 </p>
 
 <br>
