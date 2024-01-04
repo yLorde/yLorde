@@ -8,7 +8,7 @@
     Tenho mais especialidade em `back-end` e partes que não vão ter uma interface em sí. <br/>
 </p>
 
-<h2>Já fiz algumas coisas como:</h2>
+<h2>Já fiz alguns projetos, tais como:</h2>
 
 <p>
     
@@ -19,7 +19,7 @@
   
 </p>
 
-<h2>Atualmente estou fazendo:</h2>
+<h2>Meu projeto atual:</h2>
 
 <p>
         Uma aplicação web usando React com template <b>TypeScript</b> e interface usando <b>Material UI</b>. <br/>
