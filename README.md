@@ -3,7 +3,7 @@
 <h2>Um pouco sobre mim:</h2>
 
 <p>
-    Tenho 18 anos, programo há <b>5 anos</b>. Sim, comecei por volta dos 14 anos.<br>
+    Tenho 19 anos e programo há <b>5 anos</b>. Sim, comecei por volta dos 14 anos.<br>
     Comecei por uma curiosidade em saber como seria a sensação de programar.<br>
     Tenho mais especialidade em <b>back-end</b> e partes que não vão ter uma interface em sí. <br/>
 </p>
