@@ -43,6 +43,8 @@
 
 <h4>Linguagens</h4>
 
+<h3>Já usadas:</h3>
+
 <p>
     
 - JavaScript;
@@ -50,6 +52,14 @@
 - Java;
 - Python;
 
+</p>
+
+<h3>Mais usadas:</h3>
+<p>
+
+- JavaScript;
+- TypeScript;
+    
 </p>
 
 <h4>Frameworks</h4>
