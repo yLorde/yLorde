@@ -45,7 +45,7 @@
 <br/>
 
 `Discord` @ylorde <br/>
-`Email` lordgamerbot@gmail.com <br/>
+`Email` lordgamerbot@gmail.com ou b65294285@gmail.com <br/>
 
 ## Meus Status:
 
