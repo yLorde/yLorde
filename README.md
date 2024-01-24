@@ -1,3 +1,9 @@
+<html>
+    <head>
+        <script>
+            <title>Teste</title>
+        </script>
+    </head>
 <body>
 <h2>Lord's GitHub Perfil</h2>
 <br>
@@ -57,4 +63,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </body>
-
+</html>
