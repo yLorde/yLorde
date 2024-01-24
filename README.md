@@ -28,21 +28,9 @@
         Estou usando o banco de dados MongoDB mas futuramente pretendo alterar para MySQL! <br/>
 </p>
 
-<h2>Minhas preferências:</h2>
-
-<h4>IDE</h4>
-
 <p>
 
-- Visual Studio Code;
-- Sublime Text;
-- IntelliJ Idea;
-- PyCharm;
-    
-</p>
-
-<p>
-
+📌 IDE: Visual Studio Code, Sublime Text, IntelliJ Idea, PyCham <br/>
 📌 Back-end: NodeJs, Express, MongoDB <br/>
 📌 Front-end: React, HTML5, CSS, Material UI, Bootstrap <br/>
 📌 Languages: JavaScript, TypeScript, Python, Java <br/>
