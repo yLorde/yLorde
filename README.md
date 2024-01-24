@@ -33,7 +33,7 @@
 <p>
 
 📌 IDE: Visual Studio Code, Sublime Text, IntelliJ Idea, PyCham <br/>
-📌 Back-end: NodeJs, Express, MongoDB <br/>
+📌 Back-end: NodeJs, Express, Nest, Adonis,MongoDB <br/>
 📌 Front-end: React, HTML5, CSS, Material UI, Bootstrap <br/>
 📌 Languages: JavaScript, TypeScript, Python, Java <br/>
 
