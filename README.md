@@ -12,10 +12,10 @@
 
 <p>
     
-📌 Script para correção de bugs em API;
-📌 Minecraft plugin (1.8.9 e 1.18.2);
-📌 Bots de discord para moderação e utilidades, desde a versão `v12`;
-📌 Site para um servidor de minecraft (Site + loja + ativação automática de VIP);
+📌 Script para correção de bugs em API; <br/>
+📌 Minecraft plugin (1.8.9 e 1.18.2); </br>
+📌 Bots de discord para moderação e utilidades, desde a versão `v12`; <br/>
+📌 Site para um servidor de minecraft (Site + loja + ativação automática de VIP); <br/>
   
 </p>
 
@@ -32,10 +32,10 @@
 
 <p>
 
-📌 IDE: Visual Studio Code, Sublime Text, IntelliJ Idea, PyCham <br/>
-📌 Back-end: NodeJs, Express, Nest, Adonis, MongoDB <br/>
-📌 Front-end: React, HTML5, CSS, Material UI, Bootstrap <br/>
-📌 Languages: JavaScript, TypeScript, Python, Java <br/>
+📌 IDE: Visual Studio Code, Sublime Text, IntelliJ Idea, PyCham; <br/>
+📌 Back-end: NodeJs, Express, Nest, Adonis, MongoDB; <br/>
+📌 Front-end: React, HTML5, CSS, Material UI, Bootstrap; <br/>
+📌 Languages: JavaScript, TypeScript, Python, Java; <br/>
 
 </p>
 
