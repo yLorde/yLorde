@@ -41,36 +41,12 @@
     
 </p>
 
-<h4>Linguagens</h4>
-
-<h3>Já usadas:</h3>
-
-<p>
-    
-- JavaScript;
-- TypeScript;
-- Java;
-- Python;
-
-</p>
-
-<h3>Mais usadas:</h3>
 <p>
 
-- JavaScript;
-- TypeScript;
-    
-</p>
+📌 Back-end: NodeJs, Express, MongoDB
+📌 Front-end: React, HTML5, CSS, Material UI, Bootstrap
+📌 Languages: JavaScript, TypeScript, Python, Java
 
-<h4>Frameworks</h4>
-
-<p>
-    
-- React;
-- Express;
-- Adonis;
-- Nest;
-  
 </p>
 
 <br>
