@@ -21,9 +21,13 @@
 
 <h2>Meu projeto atual:</h2>
 
+<script>
+    const link = document.getElementById("link");
+</script>
+
 <p>
     Uma aplicação web usando React com template <b>TypeScript</b> e interface usando <b>Material UI</b>. <br/>
-    Caso você queira acompanhar o andamento em tempo real <a href="https://www.blackmatter.agency/">Clique aqui</a>. <br/>
+    Caso você queira acompanhar o andamento em tempo real <a id="link" href="https://www.blackmatter.agency/">Clique aqui</a>. <br/>
     Meu back-end é feito usando <b>JavaScript</b> e <b>Express</b>. <br/>
     Estou usando o banco de dados MongoDB mas futuramente pretendo alterar para MySQL! <br/>
 </p>
