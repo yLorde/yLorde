@@ -1,3 +1,4 @@
+<body>
 <h2>Lord's GitHub Perfil</h2>
 <br>
 <h2>Um pouco sobre mim:</h2>
@@ -20,10 +21,6 @@
 </p>
 
 <h2>Meu projeto atual:</h2>
-
-<script>
-    const link = document.getElementById("link");
-</script>
 
 <p>
     Uma aplicação web usando React com template <b>TypeScript</b> e interface usando <b>Material UI</b>. <br/>
@@ -58,4 +55,6 @@
 ## Linguagens mais usadas:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</body>
 
