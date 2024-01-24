@@ -43,9 +43,9 @@
 
 <p>
 
-📌 Back-end: NodeJs, Express, MongoDB
-📌 Front-end: React, HTML5, CSS, Material UI, Bootstrap
-📌 Languages: JavaScript, TypeScript, Python, Java
+📌 Back-end: NodeJs, Express, MongoDB <br/>
+📌 Front-end: React, HTML5, CSS, Material UI, Bootstrap <br/>
+📌 Languages: JavaScript, TypeScript, Python, Java <br/>
 
 </p>
 
