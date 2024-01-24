@@ -1,8 +1,6 @@
 <html>
     <head>
-        <script>
-            <title>Teste</title>
-        </script>
+        <title>Teste</title>
     </head>
 <body>
 <h2>Lord's GitHub Perfil</h2>
