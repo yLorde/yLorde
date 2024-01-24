@@ -12,20 +12,20 @@
 
 <p>
     
-- Script para correção de bugs em API;
-- Minecraft plugin (1.8.9 e 1.18.2);
-- Bots de discord para moderação e utilidades, desde a versão `v12`;
-- Site para um servidor de minecraft (Site + loja + ativação automática de VIP);
+📌 Script para correção de bugs em API;
+📌 Minecraft plugin (1.8.9 e 1.18.2);
+📌 Bots de discord para moderação e utilidades, desde a versão `v12`;
+📌 Site para um servidor de minecraft (Site + loja + ativação automática de VIP);
   
 </p>
 
 <h2>Meu projeto atual:</h2>
 
 <p>
-        Uma aplicação web usando React com template <b>TypeScript</b> e interface usando <b>Material UI</b>. <br/>
-        Caso você queira acompanhar o andamento em tempo real <a href="https://www.blackmatter.agency/">Clique aqui</a>. <br/>
-        Meu back-end é feito usando <b>JavaScript</b> e <b>Express</b>. <br/>
-        Estou usando o banco de dados MongoDB mas futuramente pretendo alterar para MySQL! <br/>
+    Uma aplicação web usando React com template <b>TypeScript</b> e interface usando <b>Material UI</b>. <br/>
+    Caso você queira acompanhar o andamento em tempo real <a href="https://www.blackmatter.agency/">Clique aqui</a>. <br/>
+    Meu back-end é feito usando <b>JavaScript</b> e <b>Express</b>. <br/>
+    Estou usando o banco de dados MongoDB mas futuramente pretendo alterar para MySQL! <br/>
 </p>
 
 <h2>Preferências: </h2>
