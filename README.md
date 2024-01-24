@@ -1,8 +1,3 @@
-<html>
-    <head>
-        <title>Teste</title>
-    </head>
-<body>
 <h2>Lord's GitHub Perfil</h2>
 <br>
 <h2>Um pouco sobre mim:</h2>
@@ -59,6 +54,3 @@
 ## Linguagens mais usadas:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</body>
-</html>
