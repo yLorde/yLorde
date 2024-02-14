@@ -12,7 +12,8 @@
 
 <p>
     
-📌 Script para correção de bugs em API; <br/>
+📌 API's em Node.js (Express); <br/>
+📌 API de envio de e-mails para: Concluir registro, recuperar conta e alterar senha; <br/>
 📌 Minecraft plugin (1.8.9 e 1.18.2); </br>
 📌 Bots de discord para moderação e utilidades, desde a versão `v12`; <br/>
 📌 Site para um servidor de minecraft (Site + loja + ativação automática de VIP); <br/>
@@ -35,7 +36,7 @@
 📌 IDE: Visual Studio Code, Sublime Text, IntelliJ Idea, PyCham; <br/>
 📌 Back-end: NodeJs, Express, Nest, Adonis, MongoDB; <br/>
 📌 Front-end: React, HTML5, CSS, Material UI, Bootstrap; <br/>
-📌 Languages: JavaScript, TypeScript, Python, Java; <br/>
+📌 Languages: JavaScript, TypeScript, Java; <br/>
 
 </p>
 
