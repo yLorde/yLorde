@@ -39,7 +39,7 @@
 <br/>
 
 `Discord` @ylorde <br/>
-`Email` lordgamerbot@gmail.com ou b65294285@gmail.com <br/>
+`Email` contatosouza.linkedin@gmail.com <br/>
 
 ## Meus Status:
 
