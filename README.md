@@ -3,7 +3,7 @@
 <h2>Um pouco sobre mim:</h2>
 
 <p>
-    Tenho 19 anos e tenho <b>3 anos de experiência</b>.<br>
+    Tenho 18 anos e tenho <b>3 anos de experiência</b>.<br>
     Comecei por uma curiosidade em saber como seria a sensação de programar.<br>
     Tenho mais especialidade em <b>back-end</b> e partes que não vão ter uma interface em sí. Não sou muito efetivo em partes que precisam de interfaces. <br/>
 </p>
@@ -27,7 +27,7 @@
 📌 IDE: Visual Studio Code, Sublime Text, IntelliJ Idea; <br/>
 📌 Back-end: NodeJs, Express, Nest, Adonis, MongoDB; <br/>
 📌 Front-end: React, HTML5, CSS, Material UI, Bootstrap; <br/>
-📌 Já usado: Nest.js, Prisma.ts;
+📌 Já usado: Nest.js, Prisma.ts; <br/>
 📌 Languages: JavaScript, TypeScript <br/>
 📌 Estudando: Java e C#;
 
