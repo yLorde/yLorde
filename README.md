@@ -29,8 +29,14 @@
 📌 Front-end: React, HTML5, CSS, Material UI, Bootstrap; <br/>
 📌 Já usado: Nest.js, Prisma.ts; <br/>
 📌 Languages: JavaScript, TypeScript <br/>
-📌 Estudando: Ruby;
 
+</p>
+
+<h2>Estudando: </h2>
+
+<p>
+📌 React Native; <br/>
+📌 Ruby; <br/>
 </p>
 
 <br>
