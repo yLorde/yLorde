@@ -6,7 +6,7 @@
     Tenho 19 anos e tenho <b>3 anos de experiência proficional</b>.<br>
     Comecei por uma curiosidade em saber como seria a sensação de programar.<br>
     Tenho mais especialidade em <b>back-end</b> e partes que não vão ter uma interface em sí. <br/>
-    Obs.: Não sou muito efetivo em partes que precisam de interfaces. <br/>
+    `Obs.: Não sou muito efetivo em partes que precisam de interfaces`. <br/>
 </p>
 
 <h2>Já fiz alguns projetos, tais como:</h2>
