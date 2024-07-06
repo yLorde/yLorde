@@ -1,4 +1,4 @@
-<h2>Lord's GitHub Perfil</h2>
+<h2>Lord's Profile</h2>
 <br>
 <h2>Um pouco sobre mim:</h2>
 
