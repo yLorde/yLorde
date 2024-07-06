@@ -3,9 +3,10 @@
 <h2>Um pouco sobre mim:</h2>
 
 <p>
-    Tenho 19 anos e tenho <b>3 anos de experiência</b>.<br>
+    Tenho 19 anos e tenho <b>3 anos de experiência proficional</b>.<br>
     Comecei por uma curiosidade em saber como seria a sensação de programar.<br>
-    Tenho mais especialidade em <b>back-end</b> e partes que não vão ter uma interface em sí. Não sou muito efetivo em partes que precisam de interfaces. <br/>
+    Tenho mais especialidade em <b>back-end</b> e partes que não vão ter uma interface em sí. <br/>
+    Obs.: Não sou muito efetivo em partes que precisam de interfaces. <br/>
 </p>
 
 <h2>Já fiz alguns projetos, tais como:</h2>
@@ -14,7 +15,7 @@
     
 📌 API's em Node.js (Express); <br/>
 📌 API de envio de e-mails para: Concluir registro, recuperar conta e alterar senha; <br/>
-📌 Minecraft plugin (1.8.9 e 1.18.2); </br>
+📌 Minecraft plugin: 1.8.9; 1.18.2 e 1.20.1.</br>
 📌 Bots de discord para moderação e utilidades, desde a versão DJS `v12`; <br/>
 📌 Site para um servidor de minecraft (Site + loja + ativação automática de VIP); <br/>
   
