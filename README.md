@@ -26,8 +26,9 @@
 <p>
 
 📌 IDE: Visual Studio Code, Sublime Text, IntelliJ Idea; <br/>
-📌 Back-end: NodeJs, Express, Nest, Adonis, MongoDB; <br/>
-📌 Front-end: React, HTML5, CSS, Material UI, Bootstrap; <br/>
+📌 Back-end: NodeJs, Express, Nest, Adonis; <br/>
+📌 Front-end: React, Next, Material UI, Bootstrap; Tailwind; <br/>
+📌 Database: MongoDB, FireBase; <br/>
 📌 Já usado: Nest.js, Prisma.ts; <br/>
 📌 Languages: JavaScript, TypeScript <br/>
 
@@ -37,7 +38,8 @@
 
 <p>
 📌 React Native; <br/>
-📌 Ruby; <br/>
+📌 Java Spring; <br/>
+📌 C#; <br/>
 </p>
 
 <br>
