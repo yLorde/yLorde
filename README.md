@@ -47,8 +47,6 @@
 <h2>Informações para contato: </h2>
 <br/>
 
-`Discord` @ylorde <br/>
-`Email` contatosouza.linkedin@gmail.com <br/>
 
 ## Meus Status:
 
