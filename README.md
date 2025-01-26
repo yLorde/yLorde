@@ -21,25 +21,25 @@
   
 </p>
 
+<h2>Atualmente estou desenvolvendo um projeto chamado VShelf</h2>
+
+📌 Teconlogias: Electron, Express e Tailwind; <br>
+📌 Linguagem: JavaScript, HTML e CSS; <br>
+📌 GitHub do projeto: <a href="https://github.com/VShelf">VShelf</a> <br>
+
 <h2>Preferências: </h2>
 
 <p>
 
-📌 IDE: Visual Studio Code, Sublime Text, IntelliJ Idea; <br/>
+📌 IDE: Cursos, Visual Studio Code, Sublime Text, IntelliJ Idea; <br/>
 📌 Back-end: NodeJs, Express, Nest, Adonis; <br/>
 📌 Front-end: React, Next, Material UI, Bootstrap; Tailwind; <br/>
-📌 Database: MongoDB, FireBase; <br/>
+📌 Database: MongoDB; <br/>
 📌 Já usado: Nest.js, Prisma.ts; <br/>
-📌 Languages: JavaScript, TypeScript <br/>
+📌 Languages: JavaScript, TypeScript, Java, C++. <br/>
 
-</p>
+Obs.: Não sou tão bom com C++ e com Java. Usei C++ quando estava estudando criação de jogos na Unity.
 
-<h2>Estudando: </h2>
-
-<p>
-📌 React Native; <br/>
-📌 Java Spring; <br/>
-📌 C#; <br/>
 </p>
 
 <br>
@@ -47,6 +47,8 @@
 <h2>Informações para contato: </h2>
 <br/>
 
+- contatotechnext@gmail.com
+- contatosouza.linkedin@gmail.com
 
 ## Meus Status:
 
