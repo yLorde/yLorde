@@ -47,10 +47,9 @@ Obs.: Não sou tão bom com C++ e com Java. Usei C++ quando estava estudando cri
 <br>
 
 <h2>Informações para contato: </h2>
-<br/>
 
 - contatotechnext@gmail.com
-- contatosouza.linkedin@gmail.com
+- <a href="htt">Likedin</a>
 
 ## Meus Status:
 
