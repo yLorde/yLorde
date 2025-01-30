@@ -1,5 +1,3 @@
-<h2>Lord's Profile</h2>
-<br>
 <h2>Um pouco sobre mim:</h2>
 
 <p>
