@@ -23,6 +23,8 @@
 
 <h2>Atualmente estou desenvolvendo um projeto chamado VShelf</h2>
 
+Um aplicativo para Windows que permite gerenciar suas economias, tarefas e agenda. Além disso, ele reúne sua lista de títulos favoritos e permite ler seus livros prediletos.
+
 📌 Teconlogias: Electron, Express e Tailwind; <br>
 📌 Linguagem: JavaScript, HTML e CSS; <br>
 📌 GitHub do projeto: <a href="https://github.com/VShelf">VShelf</a> <br>
