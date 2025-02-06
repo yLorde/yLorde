@@ -46,11 +46,7 @@ Obs.: Não sou tão bom com C++ e com Java. Usei C++ quando estava estudando cri
 
 - contatotechnext@gmail.com
 - <a href="htt">Likedin</a>
-
-## Meus Status:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yLorde&show_icons=true&theme=dark)
-
-## Linguagens mais usadas:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+####
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yLorde&show_icons=true&theme=dark&hide_title=false&card_width=500&custom_title=Meus%20Status)
+####
+![Rank de linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yLorde&layout=normal&theme=dark&hide_title=false&card_width=500&custom_title=Rank%20de%20linguagens)
