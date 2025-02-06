@@ -23,7 +23,7 @@ Um aplicativo para Windows que permite gerenciar suas economias, tarefas e agend
 📌 Teconlogias: Electron, Express, React e MaterialUI; <br/>
 📌 Linguagem: JavaScript e Node.js <br/>
 <br/>
-![icon](https://cdn-icons-png.flaticon.com/16/2504/2504911.png) [GitHub do projeto](https://github.com/VShelf) <br/>
+![icon](https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/16/github.png) [GitHub do projeto](https://github.com/VShelf) <br/>
 
 ## Usualidade:
 
@@ -42,11 +42,18 @@ Obs.: Não sou tão bom com C++ e com Java. Usei C++ quando estava estudando cri
     
 <h2>Entre em contato: </h2>
 
-![icon](https://cdn-icons-png.flaticon.com/16/732/732200.png) [Enviar e-mail](mailto:contatotechnext@gmail.com) <br/>
-![icon](https://cdn-icons-png.flaticon.com/16/3536/3536505.png) [Ver perfil do Linkedin](https://www.linkedin.com/in/davi-de-sousa-amorim) <br/>
-![icon](https://cdn-icons-png.flaticon.com/16/5968/5968756.png) [Discord](https://discord.com/users/854078034692407326) <br/>
+![icon](https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/16/gmail.png) [Enviar e-mail](mailto:contatotechnext@gmail.com) <br/>
+![icon](https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/16/linkedin.png) [Ver perfil do Linkedin](https://www.linkedin.com/in/davi-de-sousa-amorim) <br/>
+![icon](https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/16/discord.png) [Discord](https://discord.com/users/854078034692407326) <br/>
 
-# 
+## Minhas Linguagens:
+
+![icon](https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/languages/32/js.png)
+![icon](https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/languages/32/typescript.png)
+![icon](https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/languages/32/java.png)
+![icon](https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/languages/32/cpp.png)
+
+#
 
 ####
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yLorde&show_icons=true&theme=dark&hide_title=false&card_width=500&custom_title=Meus%20Status)
