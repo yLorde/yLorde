@@ -42,10 +42,13 @@ Obs.: Não sou tão bom com C++ e com Java. Usei C++ quando estava estudando cri
 
 </p>
 
-<h2>Informações para contato: </h2>
+<h2>Entre em contato: </h2>
 
-- contatotechnext@gmail.com
-- <a href="htt">Likedin</a>
+- <a href="mailto:contatotechnext@gmail.com">Enviar e-mail</a>
+- <a href="https://www.linkedin.com/in/davi-de-sousa-amorim/" target="_blank">Ver perfil do Linkedin</a>
+
+# 
+
 ####
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yLorde&show_icons=true&theme=dark&hide_title=false&card_width=500&custom_title=Meus%20Status)
 ####
