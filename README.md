@@ -7,45 +7,42 @@
     <strong>Obs.: Não sou muito efetivo em partes que precisam de interfaces.</strong> <br/>
 </p>
 
-<h2>Já fiz alguns projetos, tais como:</h2>
+## Já fiz alguns projetos, tais como:
 
-<p>
-    
 📌 API's em Node.js (Express); <br/>
 📌 API de envio de e-mails para: Concluir registro, recuperar conta e alterar senha; <br/>
 📌 Minecraft plugin: 1.8.9; 1.18.2 e 1.20.1.</br>
 📌 Bots de discord para moderação e utilidades, desde a versão DJS `v12`; <br/>
 📌 Site para um servidor de minecraft (Site + loja + ativação automática de VIP); <br/>
-  
-</p>
 
-<h2>Atualmente estou desenvolvendo um projeto chamado VShelf</h2>
+## Atualmente estou desenvolvendo um projeto chamado VShelf
 
 Um aplicativo para Windows que permite gerenciar suas economias, tarefas e agenda. Além disso, ele reúne sua lista de títulos favoritos e permite ler seus livros prediletos.
 
-📌 Teconlogias: Electron, Express, React e MaterialUI; <br>
-📌 Linguagem: JavaScript e Node.js<br>
-📌 GitHub do projeto: <a href="https://github.com/VShelf">VShelf</a> <br>
+📌 Teconlogias: Electron, Express, React e MaterialUI; <br/>
+📌 Linguagem: JavaScript e Node.js <br/>
+📌 [GitHub do projeto](https://github.com/VShelf) <br/>
 
-<h2>Preferências: </h2>
-
-<p>
+## Usualidade:
 
 📌 IDE: Cursor, Visual Studio Code, Sublime Text e IntelliJ Idea; <br/>
-📌 Back-end: NodeJs, Express, Nest e Adonis; <br/>
-📌 Front-end: React, Next, Material UI, Bootstrap e Tailwind; <br/>
+📌 Frameworks: Express, Nest, Adonis, React, React Native, MaterialUI, Bootstrap, tailwind; <br/>
 📌 Database: MongoDB; <br/>
 📌 Já usado: Nest.js e Prisma.ts; <br/>
-📌 Languages: JavaScript, TypeScript, Java e C++. <br/>
+📌 Languages: JavaScript, TypeScript, Java e C++. <br/> <br/>
 
 Obs.: Não sou tão bom com C++ e com Java. Usei C++ quando estava estudando criação de jogos na Unity.
 
-</p>
+## Preferência:
 
+📌 Back-end: NodeJs, Express, Nest e Adonis; <br/>
+📌 Front-end: React, Material UI, Bootstrap e Tailwind; <br/>
+    
 <h2>Entre em contato: </h2>
 
-- <a href="mailto:contatotechnext@gmail.com">Enviar e-mail</a>
-- <a href="https://www.linkedin.com/in/davi-de-sousa-amorim/" target="_blank">Ver perfil do Linkedin</a>
+- [Enviar e-mail](mailto:contatotechnext@gmail.com)
+- [Ver perfil do Linkedin](https://www.linkedin.com/in/davi-de-sousa-amorim)
+- [Discord](https://discord.com/users/854078034692407326)
 
 # 
 
