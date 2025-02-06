@@ -23,8 +23,8 @@
 
 Um aplicativo para Windows que permite gerenciar suas economias, tarefas e agenda. Além disso, ele reúne sua lista de títulos favoritos e permite ler seus livros prediletos.
 
-📌 Teconlogias: Electron, Express e Tailwind; <br>
-📌 Linguagem: JavaScript, HTML e CSS; <br>
+📌 Teconlogias: Electron, Express, React e MaterialUI; <br>
+📌 Linguagem: JavaScript e Node.js<br>
 📌 GitHub do projeto: <a href="https://github.com/VShelf">VShelf</a> <br>
 
 <h2>Preferências: </h2>
