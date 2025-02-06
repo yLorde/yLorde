@@ -31,18 +31,16 @@ Um aplicativo para Windows que permite gerenciar suas economias, tarefas e agend
 
 <p>
 
-📌 IDE: Cursor, Visual Studio Code, Sublime Text, IntelliJ Idea; <br/>
-📌 Back-end: NodeJs, Express, Nest, Adonis; <br/>
-📌 Front-end: React, Next, Material UI, Bootstrap; Tailwind; <br/>
+📌 IDE: Cursor, Visual Studio Code, Sublime Text e IntelliJ Idea; <br/>
+📌 Back-end: NodeJs, Express, Nest e Adonis; <br/>
+📌 Front-end: React, Next, Material UI, Bootstrap e Tailwind; <br/>
 📌 Database: MongoDB; <br/>
-📌 Já usado: Nest.js, Prisma.ts; <br/>
-📌 Languages: JavaScript, TypeScript, Java, C++. <br/>
+📌 Já usado: Nest.js e Prisma.ts; <br/>
+📌 Languages: JavaScript, TypeScript, Java e C++. <br/>
 
 Obs.: Não sou tão bom com C++ e com Java. Usei C++ quando estava estudando criação de jogos na Unity.
 
 </p>
-
-<br>
 
 <h2>Informações para contato: </h2>
 
