@@ -7,13 +7,14 @@
     <strong>Obs.: Não sou muito efetivo em partes que precisam de interfaces.</strong> <br/>
 </p>
 
-## Já fiz alguns projetos, tais como:
+## Alguns dos meus projetos:
 
-📌 API's em Node.js (Express); <br/>
+📌 APIs em Node.js (Express + Mongoose); <br/>
 📌 API de envio de e-mails para: Concluir registro, recuperar conta e alterar senha; <br/>
-📌 Minecraft plugin: 1.8.9; 1.18.2 e 1.20.1.</br>
+📌 Minecraft plugin: 1.8.9, 1.18.2 e 1.20.1.</br>
 📌 Bots de discord para moderação e utilidades, desde a versão DJS `v12`; <br/>
 📌 Site para um servidor de minecraft (Site + loja + ativação automática de VIP); <br/>
+📌 Bot de discord para pagamentos via PIX usando Mercado Pago. Validação automática de pagamento. <br/>
 
 ## Atualmente estou desenvolvendo um projeto chamado VShelf
 
@@ -21,7 +22,8 @@ Um aplicativo para Windows que permite gerenciar suas economias, tarefas e agend
 
 📌 Teconlogias: Electron, Express, React e MaterialUI; <br/>
 📌 Linguagem: JavaScript e Node.js <br/>
-📌 [GitHub do projeto](https://github.com/VShelf) <br/>
+<br/>
+![icon](https://cdn-icons-png.flaticon.com/16/2504/2504911.png) [GitHub do projeto](https://github.com/VShelf) <br/>
 
 ## Usualidade:
 
@@ -40,9 +42,9 @@ Obs.: Não sou tão bom com C++ e com Java. Usei C++ quando estava estudando cri
     
 <h2>Entre em contato: </h2>
 
-- [Enviar e-mail](mailto:contatotechnext@gmail.com)
-- [Ver perfil do Linkedin](https://www.linkedin.com/in/davi-de-sousa-amorim)
-- [Discord](https://discord.com/users/854078034692407326)
+![icon](https://cdn-icons-png.flaticon.com/16/732/732200.png) [Enviar e-mail](mailto:contatotechnext@gmail.com) <br/>
+![icon](https://cdn-icons-png.flaticon.com/16/3536/3536505.png) [Ver perfil do Linkedin](https://www.linkedin.com/in/davi-de-sousa-amorim) <br/>
+![icon](https://cdn-icons-png.flaticon.com/16/5968/5968756.png) [Discord](https://discord.com/users/854078034692407326) <br/>
 
 # 
 
