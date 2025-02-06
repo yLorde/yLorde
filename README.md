@@ -10,7 +10,7 @@
 ## Alguns dos meus projetos:
 
 📌 APIs em Node.js (Express + Mongoose); <br/>
-📌 API de envio de e-mails para: Concluir registro, recuperar conta e alterar senha; <br/>
+📌 API de envio de e-mails para: <strong>Concluir registro, recuperar conta e alterar senha;<strong> <br/>
 📌 Minecraft plugin: 1.8.9, 1.18.2 e 1.20.1.</br>
 📌 Bots de discord para moderação e utilidades, desde a versão DJS `v12`; <br/>
 📌 Site para um servidor de minecraft (Site + loja + ativação automática de VIP); <br/>
