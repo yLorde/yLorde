@@ -31,7 +31,7 @@ Um aplicativo para Windows que permite gerenciar suas economias, tarefas e agend
 
 <p>
 
-📌 IDE: Cursos, Visual Studio Code, Sublime Text, IntelliJ Idea; <br/>
+📌 IDE: Cursor, Visual Studio Code, Sublime Text, IntelliJ Idea; <br/>
 📌 Back-end: NodeJs, Express, Nest, Adonis; <br/>
 📌 Front-end: React, Next, Material UI, Bootstrap; Tailwind; <br/>
 📌 Database: MongoDB; <br/>
