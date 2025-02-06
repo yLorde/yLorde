@@ -56,6 +56,6 @@ Obs.: Não sou tão bom com C++ e com Java. Usei C++ quando estava estudando cri
 #
 
 ####
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yLorde&show_icons=true&theme=dark&hide_title=false&card_width=500&custom_title=Meus%20Status)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yLorde&show_icons=true&theme=dark&hide_title=false&card_width=400&custom_title=Meus%20Status)
 ####
-![Rank de linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yLorde&layout=normal&theme=dark&hide_title=false&card_width=500&custom_title=Rank%20de%20linguagens)
+![Rank de linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yLorde&layout=normal&theme=dark&hide_title=false&card_width=400&custom_title=Rank%20de%20linguagens)
