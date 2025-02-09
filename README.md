@@ -1,7 +1,7 @@
 <h2>Um pouco sobre mim:</h2>
 
 <p>
-    Tenho 19 anos e tenho <b>3 anos de experiência profissional</b>.<br>
+    Tenho 19 anos, comecei a estudar programação aos 14 e de fato à programar aos 15 anos.<br>
     Comecei por uma curiosidade em saber como seria a sensação de programar.<br>
     Tenho mais especialidade em <b>back-end</b> e partes que não vão ter uma interface em sí. <br/>
     <strong>Obs.: Não sou muito efetivo em partes que precisam de interfaces.</strong> <br/>
