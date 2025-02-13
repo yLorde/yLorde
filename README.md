@@ -1,26 +1,26 @@
 <h2>Um pouco sobre mim:</h2>
 
 <p>
-    Tenho 19 anos, comecei a estudar programação aos 14 e de fato à programar aos 15 anos.<br>
+    Tenho 19 anos, comecei a estudar programação aos 14 e a programar de fato aos 15 anos.<br>
     Comecei por uma curiosidade em saber como seria a sensação de programar.<br>
-    Tenho mais especialidade em <b>back-end</b> e partes que não vão ter uma interface em sí. <br/>
-    <strong>Obs.: Não sou muito efetivo em partes que precisam de interfaces.</strong> <br/>
+    Tenho mais especialidade em <b>back-end</b> e partes que não têm uma interface em si. <br/>
+    <strong>Obs.: Não sou muito eficaz em partes que precisam de interfaces.</strong> <br/>
 </p>
 
 ## Alguns dos meus projetos:
 
 📌 APIs em Node.js (Express + Mongoose); <br/>
 📌 API de envio de e-mails para: <strong>Concluir registro, recuperar conta e alterar senha;</strong> <br/>
-📌 Minecraft plugin: 1.8.9, 1.18.2 e 1.20.1.</br>
-📌 Bots de discord para moderação e utilidades, desde a versão DJS `v12`; <br/>
-📌 Site para um servidor de minecraft (Site + loja + ativação automática de VIP); <br/>
-📌 Bot de discord para pagamentos via PIX usando Mercado Pago. Validação automática de pagamento. <br/>
+📌 Plugin de Minecraft: 1.8.9, 1.18.2 e 1.20.1.</br>
+📌 Bots de Discord para moderação e utilidades, desde a versão DJS `v12`; <br/>
+📌 Site para um servidor de Minecraft (Site + loja + ativação automática de VIP); <br/>
+📌 Bot de Discord para pagamentos via PIX usando Mercado Pago. Validação automática de pagamento. <br/>
 
 ## Atualmente estou desenvolvendo um projeto chamado VShelf
 
 Um aplicativo para Windows que permite gerenciar suas economias, tarefas e agenda. Além disso, ele reúne sua lista de títulos favoritos e permite ler seus livros prediletos.
 
-📌 Teconlogias: Electron, Express, React e MaterialUI; <br/>
+📌 Tecnologias: Electron, Express, React e MaterialUI; <br/>
 📌 Linguagem: JavaScript e Node.js <br/>
 <br/>
 ![icon](https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/16/github.png) [GitHub do projeto](https://github.com/VShelf) <br/>
@@ -28,16 +28,18 @@ Um aplicativo para Windows que permite gerenciar suas economias, tarefas e agend
 ## Usualidade:
 
 📌 IDE: Cursor, Visual Studio Code, Sublime Text e IntelliJ Idea; <br/>
-📌 Frameworks: Express, Nest, Adonis, React, React Native, MaterialUI, Bootstrap, tailwind; <br/>
-📌 Database: MongoDB; <br/>
-📌 Já usado: Nest.js e Prisma.ts; <br/>
-📌 Languages: JavaScript, TypeScript, Java e C++. <br/> <br/>
+📌 Frameworks: Express, Nest, Adonis, React, React Native, MaterialUI, Bootstrap, Tailwind; <br/>
+📌 Banco de dados: MongoDB; <br/>
+📌 Já usados: Nest.js e Prisma.ts; <br/>
+📌 Linguagens: JavaScript, TypeScript, Java e C++. <br/> <br/>
+
+Obs.: Não sou tão bom com C++ e com Java. Usei C++ quando estava estudando criação de jogos na Unity.
 
 Obs.: Não sou tão bom com C++ e com Java. Usei C++ quando estava estudando criação de jogos na Unity.
 
 ## Preferência:
 
-📌 Back-end: NodeJs, Express, Nest e Adonis; <br/>
+📌 Back-end: Node.js, Express, Nest e Adonis; <br/>
 📌 Front-end: React, Material UI, Bootstrap e Tailwind; <br/>
     
 <h2>Entre em contato: </h2>
