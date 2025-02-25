@@ -29,7 +29,7 @@ Um aplicativo para Windows que permite gerenciar suas economias, tarefas e agend
 
 📌 IDE: Cursor, Visual Studio Code, Sublime Text e IntelliJ Idea; <br/>
 📌 Frameworks: Express, Nest, Adonis, React, React Native, MaterialUI, Bootstrap, Tailwind; <br/>
-📌 Banco de dados: MongoDB; <br/>
+📌 Banco de dados: MongoDB, sqlite; <br/>
 📌 Já usados: Nest.js e Prisma.ts; <br/>
 📌 Linguagens: JavaScript, TypeScript, Java e C++. <br/> <br/>
 
