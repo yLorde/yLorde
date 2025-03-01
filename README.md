@@ -35,8 +35,6 @@ Um aplicativo para Windows que permite gerenciar suas economias, tarefas e agend
 
 Obs.: Não sou tão bom com C++ e com Java. Usei C++ quando estava estudando criação de jogos na Unity.
 
-Obs.: Não sou tão bom com C++ e com Java. Usei C++ quando estava estudando criação de jogos na Unity.
-
 ## Preferência:
 
 📌 Back-end: Node.js, Express, Nest e Adonis; <br/>
