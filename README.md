@@ -32,7 +32,7 @@ Aqui estão alguns dos projetos que já realizei:
 ### Experiência Adquirida:
 - **Python**: Embora eu evite devido à liberdade excessiva que oferece ao programador.  
 - **Java**: Usado para desenvolver plugins para Minecraft.  
-- **C++**: Estudado para criação de jogos na Unity.  
+- **C#**: Estudado para criação de jogos na Unity.  
 - **Ruby**: Experimentei a linguagem, mas sem projetos avançados.
 
 ---
