@@ -48,7 +48,7 @@ Aqui estão alguns dos projetos que já realizei:
 
 Fique à vontade para me contatar:
 
-- ![Gmail Icon](https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/16/gmail.png) **Email Pessoal:** [contato@ylorde.com.br](mailto:contato@ylorde.com.br)  
+- ![Gmail Icon](https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/16/gmail.png) **Email Profissional:** [contato@ylorde.com.br](mailto:contato@ylorde.com.br)  
 - ![Gmail Icon](https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/16/gmail.png) **Email Alternativo:** [contatosouza.linkedin@gmail.com](mailto:contatosouza.linkedin@gmail.com)  
 - ![LinkedIn Icon](https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/16/linkedin.png) **LinkedIn:** [Perfil Profissional](https://www.linkedin.com/in/davi-de-sousa-amorim)  
 - ![Discord Icon](https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/16/discord.png) **Discord:** [Perfil Discord](https://discord.com/users/854078034692407326)
