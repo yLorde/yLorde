@@ -30,7 +30,7 @@ Aqui estão alguns dos projetos que já realizei:
 - **Linguagens**: JavaScript, TypeScript.  
 
 ### Experiência Adquirida:
-- **Python**: Embora eu evite devido à liberdade excessiva que oferece ao programador.  
+- **Python**: Embora eu evite usar por não me familiarizar bem com a linguagem.
 - **Java**: Usado para desenvolver plugins para Minecraft.  
 - **C#**: Estudado para criação de jogos na Unity.  
 
