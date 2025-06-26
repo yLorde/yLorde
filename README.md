@@ -67,3 +67,6 @@ Aqui estão algumas estatísticas que destacam minha atividade e contribuições
 
 #### 🏆 Minhas Conquistas
 ![trophy](https://github-profile-trophy.vercel.app/?username=yLorde&theme=onedark)
+
+#### 🎵 Meu Spotify
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=p7g0u0bwy6md8dvdp4zdaiosx)
