@@ -25,9 +25,9 @@ Aqui estão alguns dos projetos que já realizei:
 
 ### Frequentemente Utilizadas:
 - **IDEs**: Cursor, Visual Studio Code, Sublime Text, IntelliJ IDEA.  
-- **Frameworks**: Express, Nest, Adonis, React, React Native, MaterialUI, Bootstrap, Tailwind, Electron.  
+- **Frameworks**: Express, Nest, Adonis, React, React Native, MaterialUI, Bootstrap, Tailwind, Electron, Java Spring.  
 - **Banco de Dados**: MongoDB, SQLite.  
-- **Linguagens**: JavaScript, TypeScript.  
+- **Linguagens**: JavaScript, TypeScript, Java.
 
 ### Experiência Adquirida:
 - **Python**: Embora eu evite usar por não me familiarizar bem com a linguagem.
