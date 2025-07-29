@@ -2,7 +2,7 @@
 
 ## 📝 Sobre Mim
 
-Tenho 20 anos e comecei minha jornada na programação aos 14 anos. Aos 15, comecei a desenvolver projetos reais, motivado por pura curiosidade sobre como seria a sensação de programar. Hoje, sou especializado em **back-end** e em soluções sem interface visual, embora eu ainda esteja aprimorando minhas habilidades em áreas que envolvem design de interfaces.
+Tenho 20 anos e comecei minha jornada na programação por volta dos 14 anos. Algum tempo depois comecei a desenvolver projetos reais, motivado por pura curiosidade sobre como seria a sensação de programar. Hoje, sou especializado em **back-end** e em soluções sem interface visual, embora eu ainda esteja aprimorando minhas habilidades em áreas que envolvem design de interfaces.
 
 ---
 
