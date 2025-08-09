@@ -12,7 +12,10 @@ Aqui estão alguns dos projetos que já realizei:
 
 - **APIs em Node.js**: Utilizando Express e Mongoose para soluções ágeis e escaláveis.  
 - **API SMTP**: Gerenciamento de registros, recuperação de contas e alteração de senhas.  
-- **Plugins para Minecraft**: Suporte às versões `1.8.9`, `1.18.2` e `1.20.1`.  
+- **Plugins para Minecraft**: Suporte às versões `1.8x`, `1.18x`, `1.20x` e `1.21x`.
+  - Spigot;
+  - Paper;
+  - Velocity;
 - **Bots de Discord**: Foco em moderação e utilidades, desenvolvidos desde a versão DJS `v12` com `JavaScript` e `Node.js`.  
 - **Website para servidor de Minecraft**: Incluindo loja e ativação automática de VIP.  
 - **Bot de Discord para pagamentos via PIX**: Usando Mercado Pago com validação automática.  
