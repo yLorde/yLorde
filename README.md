@@ -10,6 +10,7 @@ Tenho 20 anos e comecei minha jornada na programação por volta dos 14 anos. Al
 
 Aqui estão alguns dos projetos que já realizei:
 
+- **API em Rust**: API construída usando actinx-web e postgres.
 - **APIs em Node.js**: Utilizando Express e Mongoose para soluções ágeis e escaláveis.  
 - **API SMTP**: Gerenciamento de registros, recuperação de contas e alteração de senhas.  
 - **Plugins para Minecraft**: Suporte às versões `1.8x`, `1.18x`, `1.20x` e `1.21x`.
@@ -29,22 +30,22 @@ Aqui estão alguns dos projetos que já realizei:
 ### Frequentemente Utilizadas:
 - **IDEs**: Cursor, Visual Studio Code, Sublime Text, IntelliJ IDEA.  
 - **Frameworks**: Express, Nest, Adonis, React, React Native, MaterialUI, Bootstrap, Tailwind, Electron, Java Spring.  
-- **Banco de Dados**: MongoDB, SQLite.  
-- **Linguagens**: JavaScript, TypeScript, Java.
+- **Banco de Dados**: MongoDB, SQLite, Postgres.
+- **Linguagens**: JavaScript, TypeScript, Java, Rust.
 
 ### Experiência Adquirida:
 - **Python**: Embora eu evite usar por não me familiarizar bem com a linguagem.
 - **Java**: Usei para desenvolver plugins para Minecraft.  
 - **C#**: Estudado para criação de jogos na Unity.
 - **Lua**: Usei em desenvolvimento de jogos no Roblox.
-
+- **Rust**: Usado para desenvolver a v2 do backend do meu website.
 ---
 
 ## 🎯 Preferências
 
-- **Back-end**: Node.js, Express, Nest e Adonis.  
+- **Back-end**: Node.js, Express, Nest e Adonis, Rust.  
 - **Front-end**: React, Material UI, Bootstrap, Tailwind.  
-- **Linguagens favoritas**: JavaScript e TypeScript.  
+- **Linguagens favoritas**: JavaScript, TypeScript, Rust.
 
 ---
 
