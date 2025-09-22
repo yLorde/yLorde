@@ -26,8 +26,8 @@ Aqui estão alguns dos projetos que já realizei:
 ## 🛠️ Ferramentas e Tecnologias
 
 ### Frequentemente Utilizadas:
-- **IDEs**: Cursor, Visual Studio Code, Sublime Text, IntelliJ IDEA.  
-- **Frameworks**: Express, Nest, Adonis, React, React Native, MaterialUI, Bootstrap, Tailwind, Electron, Java Spring.  
+- **IDEs**: Visual Studio Code, IntelliJ IDEA.  
+- **Frameworks**: Express, React, React Native, MaterialUI, Bootstrap, Tailwind, Electron, Java Spring.  
 - **Banco de Dados**: MongoDB, SQLite, Postgres.
 - **Linguagens**: JavaScript, TypeScript, Java, Rust.
 
@@ -36,14 +36,18 @@ Aqui estão alguns dos projetos que já realizei:
 - **Java**: Usei para desenvolver plugins para Minecraft.  
 - **C#**: Estudado para criação de jogos na Unity.
 - **Lua**: Usei em desenvolvimento de jogos no Roblox.
-- **Rust**: Usado para desenvolver a v2 do backend do meu website.
+- **Rust**: Usado para desenvolver o backend do [VShelf](https://github.com/vshelf/windows/releases) v1.2.13 e posteriores.
 ---
 
 ## 🎯 Preferências
 
-- **Back-end**: Node.js, Express, Nest e Adonis, Rust.  
-- **Front-end**: React, Material UI, Bootstrap, Tailwind.  
-- **Linguagens favoritas**: JavaScript, TypeScript, Rust.
+- **Back-end**:
+  - Node.js (JavaScript): Express;
+  - Rust: Actinx-web;
+- **Front-end**:
+  - React (JavaScript, TypeScript): MUI, TailwindCss;
+  - HTML: TailwindCss, Bootstrap;
+- **Linguagens favoritas**: JavaScript, TypeScript e Rust.
 
 ---
 
