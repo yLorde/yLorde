@@ -8,7 +8,8 @@ Tenho 20 anos e comecei minha jornada na programação por volta dos 14 anos. Al
 
 Aqui estão alguns dos projetos que já realizei:
 
-- **API em Rust**: API construída usando actinx-web e postgres.
+- **Backend em Python**: Construído usando Flask e PostgreSQL.
+- **Backend em Rust**: Construída usando actinx-web e PostgreSQL.
 - **APIs em Node.js**: Utilizando Express e Mongoose para soluções ágeis e escaláveis.  
 - **API SMTP**: Gerenciamento de registros, recuperação de contas e alteração de senhas.  
 - **Plugins para Minecraft**: Suporte às versões `1.8x`, `1.18x`, `1.20x` e `1.21x`.
@@ -26,17 +27,17 @@ Aqui estão alguns dos projetos que já realizei:
 ## 🛠️ Ferramentas e Tecnologias
 
 ### Frequentemente Utilizadas:
-- **IDEs**: Visual Studio Code, IntelliJ IDEA.  
-- **Frameworks**: Express, React, React Native, MaterialUI, Bootstrap, Tailwind, Electron, Java Spring.  
-- **Banco de Dados**: MongoDB, SQLite, Postgres.
-- **Linguagens**: JavaScript, TypeScript, Java, Rust.
+- **IDEs**: Visual Studio Code, IntelliJ, Pycharm.
+- **Frameworks**: Express, React, React Native, MaterialUI, Bootstrap, Tailwind, Electron, Java Spring.
+- **Banco de Dados**: MongoDB, SQLite, PostgreSQL.
+- **Linguagens**: JavaScript, TypeScript, Java, Rust, Python
 
 ### Experiência Adquirida:
 - **Python**: Embora eu evite usar por não me familiarizar bem com a linguagem.
 - **Java**: Usei para desenvolver plugins para Minecraft.  
 - **C#**: Estudado para criação de jogos na Unity.
 - **Lua**: Usei em desenvolvimento de jogos no Roblox.
-- **Rust**: Usado para desenvolver o backend do [VShelf](https://github.com/vshelf/windows/releases) v1.2.13 e posteriores.
+- **Rust**: Usado para desenvolver o backend do [VShelf](https://github.com/vshelf/) 1.2.13 e até a versão 1.2.23, após a 1.2.23 o backend é construído com Python.
 ---
 
 ## 🎯 Preferências
@@ -44,6 +45,7 @@ Aqui estão alguns dos projetos que já realizei:
 - **Back-end**:
   - Node.js (JavaScript): Express;
   - Rust: Actinx-web;
+  - Python: Flask
 - **Front-end**:
   - React (JavaScript, TypeScript): MUI, TailwindCss;
   - HTML: TailwindCss, Bootstrap;
