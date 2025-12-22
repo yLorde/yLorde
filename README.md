@@ -27,16 +27,17 @@ Aqui estão alguns dos projetos que já realizei:
 ## 🛠️ Ferramentas e Tecnologias
 
 ### Frequentemente Utilizadas:
-- **IDEs**: Visual Studio Code, IntelliJ, Pycharm.
-- **Frameworks**: Express, React, React Native, MaterialUI, Bootstrap, Tailwind, Electron, Java Spring.
-- **Banco de Dados**: MongoDB, SQLite, PostgreSQL.
-- **Linguagens**: JavaScript, TypeScript, Java, Rust, Python
+- **IDEs**: Visual Studio Code, Visual Studio, IntelliJ, Pycharm;
+- **Frameworks**: Express, React, NextJs, React Native, MaterialUI, Bootstrap, TailwindCSS, Electron, Java Spring;
+- **Libs**: Actinx-web, Flask;
+- **Banco de Dados**: MongoDB, SQLite, PostgreSQL;
+- **Linguagens**: JavaScript, TypeScript, Java, Rust, Python.
 
 ### Experiência Adquirida:
-- **Python**: Embora eu evite usar por não me familiarizar bem com a linguagem.
-- **Java**: Usei para desenvolver plugins para Minecraft.  
-- **C#**: Estudado para criação de jogos na Unity.
-- **Lua**: Usei em desenvolvimento de jogos no Roblox.
+- **Python**: Embora eu evite usar por não me familiarizar bem com a linguagem;
+- **Java**: Usei para desenvolver plugins para Minecraft;
+- **C#**: Estudado para criação de jogos na Unity;
+- **Lua**: Usei em desenvolvimento de jogos no Roblox;
 - **Rust**: Usado para desenvolver o backend do [VShelf](https://github.com/vshelf/) 1.2.13 e até a versão 1.2.23, após a 1.2.23 o backend é construído com Python.
 ---
 
@@ -45,9 +46,10 @@ Aqui estão alguns dos projetos que já realizei:
 - **Back-end**:
   - Node.js (JavaScript): Express;
   - Rust: Actinx-web;
-  - Python: Flask
+  - Python: Flask.
 - **Front-end**:
-  - React (JavaScript, TypeScript): MUI, TailwindCss;
+  - React (JavaScript, TypeScript): MUI, TailwindCSS;
+  - NextJs (TypeScript): TailwindCSS;
   - HTML: TailwindCss, Bootstrap;
 - **Linguagens favoritas**: JavaScript, TypeScript e Rust.
 
