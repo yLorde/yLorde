@@ -52,3 +52,4 @@ Aqui estão alguns dos projetos que já realizei:
   - NextJs (TypeScript): TailwindCSS;
   - HTML: TailwindCss, Bootstrap;
 - **Linguagens favoritas**: JavaScript, TypeScript e Rust.
+- **Linguagens mais usadas**: TypeScript e Python.
