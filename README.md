@@ -33,6 +33,7 @@ Aqui estão alguns dos projetos que já realizei:
 - **Frameworks**: Express, React, NextJs, React Native, MaterialUI, Bootstrap, TailwindCSS, Electron, Java Spring.
 - **Libs**: Actinx-web, Flask.
 - **Banco de Dados**: MongoDB, SQLite, PostgreSQL.
+- **Docker & Docker Compose**
 
 ### Linguagens
 - **Já usadas**: JavaScript, TypeScript, Lua, Java, Rust, Python, Assembly, C.
