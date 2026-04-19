@@ -10,7 +10,7 @@ Aqui estão alguns dos projetos que já realizei:
 
 - **Backend em Python**:
   - Construído usando Flask e PostgreSQL.
-  - Construído usando [Core Framework / Strider Framework](https://github.com/SorPuti/core-frameworkhttps://github.com/SorPuti/core-framework).
+  - Construído usando [Core Framework / Strider Framework](https://github.com/SorPuti/core-framework).
 - **Backend em Rust**: Construída usando actinx-web e PostgreSQL.
 - **APIs em Node.js**: Utilizando Express e Mongoose para soluções ágeis e escaláveis.  
 - **API SMTP**: Gerenciamento de registros, recuperação de contas e alteração de senhas.  
