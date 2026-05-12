@@ -57,7 +57,7 @@ Aqui estão alguns dos projetos que já realizei:
 - **Back-end**:
   - Node.js: JavaScript + Express.
   - Rust: Actinx-web.
-  - Python: Flask.
+  - Python: Strider Framework.
   - DB: PostgreSQL.
 - **Front-end**:
   - React (JavaScript, TypeScript): MUI, TailwindCSS.
