@@ -5,7 +5,7 @@ Tenho 21 anos e comecei minha jornada na programação por volta dos 15 anos. Al
 ---
 ## 👤 Outros perfis
 - Projetos open-source [Open-yLorde](https://github.com/open-ylorde)
-- [DSA Digital](https://github.com/DSADigital)
+- Projeto pessoal [DSA Digital](https://github.com/DSADigital)
 
 ## 💻 Projetos Desenvolvidos
 
