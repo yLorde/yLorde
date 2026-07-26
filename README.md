@@ -78,7 +78,7 @@ Aqui estão alguns dos projetos que já realizei:
 #### Software development
 ![Software development](https://skillicons.dev/icons?i=electron&theme=dark)
 #### Already used
-![Already used](https://skillicons.dev/icons?i=cs,java,lua&theme=dark)
+![Already used](https://skillicons.dev/icons?i=c,cs,java,lua&theme=dark)
 #### Host and OS
 ![Host and OS](https://skillicons.dev/icons?i=docker,linux,mint,ubuntu,windows&theme=dark)
 #### Databases
