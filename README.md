@@ -47,7 +47,7 @@ Aqui estão alguns dos projetos que já realizei:
 - **Menos usadas**: Java e Rust.
 - **Pouca experiência**: C# e Lua.
 - **Nenhuma experiência real**: Assembly, C.
-
+- 
 ### Experiência Adquirida:
 - **Python**: Usado para agilizar o desenvolvimento de backends.
 - **Java**: Desenvolvimento de plugins para Minecraft.
@@ -68,3 +68,24 @@ Aqui estão alguns dos projetos que já realizei:
   - React (JavaScript, TypeScript): MUI, TailwindCSS.
   - Next.js (TypeScript): TailwindCSS.
   - HTML: TailwindCss, Bootstrap.
+
+---
+
+#### Frontend
+![Frontend](https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nextjs,tailwind,materialui&theme=dark)
+#### Backend
+![Backend](https://skillicons.dev/icons?i=rust,actix,python,flask,nodejs,express&theme=dark)
+#### Software development
+![Software development](https://skillicons.dev/icons?i=electron&theme=dark)
+#### Already used
+![Already used](https://skillicons.dev/icons?i=cs,java,lua&theme=dark)
+#### Host and OS
+![Host and OS](https://skillicons.dev/icons?i=docker,linux,mint,ubuntu,windows&theme=dark)
+#### Databases
+![Database](https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark)
+#### Platforms
+![Platforms](https://skillicons.dev/icons?i=cloudflare,github,linkedin,vercel&theme=dark)
+#### Softwares
+![Software](https://skillicons.dev/icons?i=idea,notion,npm,git,pycharm,robloxstudio,sublime,vite,vscode&theme=dark)
+#### Discord
+![Discord](https://skillicons.dev/icons?i=discord,bots,discordjs&theme=dark)
