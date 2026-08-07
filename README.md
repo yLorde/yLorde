@@ -47,7 +47,7 @@ Aqui estão alguns dos projetos que já realizei:
 - **Menos usadas**: Java e Rust.
 - **Pouca experiência**: C# e Lua.
 - **Nenhuma experiência real**: Assembly, C.
-- 
+
 ### Experiência Adquirida:
 - **Python**: Usado para agilizar o desenvolvimento de backends.
 - **Java**: Desenvolvimento de plugins para Minecraft.
