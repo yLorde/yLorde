@@ -1,15 +1,14 @@
-## 📝 Sobre Mim
-
 Tenho 21 anos e comecei minha jornada na programação por volta dos 15 anos. Algum tempo depois comecei a desenvolver projetos reais, motivado por pura curiosidade sobre como seria a sensação de programar. Hoje, sou especializado em **back-end** e em soluções sem interface visual, embora eu ainda esteja aprimorando minhas habilidades em áreas que envolvem design de interfaces.
 
 ---
-## 👤 Outros perfis
+## Outros perfis
 - Projetos open-source [Open-yLorde](https://github.com/open-ylorde)
 - Projetos pessoais:
   - [DSA Digital](https://github.com/DSADigital)
   - [Web RPG Maker](https://github.com/Web-RPG-Maker)
 
-## 💻 Projetos Desenvolvidos
+<!--
+## Projetos Desenvolvidos
 
 Aqui estão alguns dos projetos que já realizei:
 
@@ -30,8 +29,21 @@ Aqui estão alguns dos projetos que já realizei:
 - **Aplicativo Android**: Criado utilizando React Native.
 - **Site de armazenamento de informações de filmes e séries**: React (TypeScript) + TailwindCss no frontend, Rust + Actinx-web no backend e PostgreSQL para banco de dados.
 ---
+-->
 
-## 🛠️ Ferramentas e Tecnologias
+---
+
+### **Easy API Consumer**:
+Easy API Consumer – Uma biblioteca Node.js para requisições HTTP, autenticação e comunicação com APIs de forma simplificada.
+
+> [!NOTE]
+> Este é um projeto pessoal, que é atualizado sempre que necessito de uma nova funcionabilidade, mas estou aberto a receber sugestões.
+
+> [NPM](https://npmjs.com/package/easy-api-consumer)\
+> [GitHub REPO](https://github.com/open-ylorde/easy-api-consumer)
+---
+
+## Ferramentas e Tecnologias
 
 ### Frequentemente Utilizadas:
 - **IDEs**: Visual Studio Code, Visual Studio, IntelliJ, Pycharm.
@@ -43,8 +55,8 @@ Aqui estão alguns dos projetos que já realizei:
 ### Linguagens
 - **Já usadas**: JavaScript, TypeScript, Lua, Java, Rust, Python, Assembly, C.
 - **Favoritas**: TypeScript e Rust.
-- **Mais usadas**: TypeScript e Python.
-- **Menos usadas**: Java e Rust.
+- **Mais usadas**: TypeScript e Rust.
+- **Menos usadas**: Java e Python.
 - **Pouca experiência**: C# e Lua.
 - **Nenhuma experiência real**: Assembly, C.
 
@@ -57,13 +69,14 @@ Aqui estão alguns dos projetos que já realizei:
 - **Assembly**: Desenvolvi um bootloader x86_64 [micro-win-x2](https://github.com/ylorde/micro-win-x2).
 ---
 
-## 🎯 Preferências
+<!--
+## Preferências
 
 - **Back-end**:
-  - Node.js: JavaScript + Express.
-  - Rust: Actix-web.
-  - Python: Strider Framework, Flask.
-  - DB: PostgreSQL.
+  - Node.js: JavaScript, Express, MongoDB.
+  - Rust: Actix-web, PostgreSQL.
+  - Python: Strider Framework, Flask, PostgreSQL.
+  - Auth: JWT, Sessions.
 - **Front-end**:
   - React (JavaScript, TypeScript): MUI, TailwindCSS.
   - Next.js (TypeScript): TailwindCSS.
@@ -89,3 +102,4 @@ Aqui estão alguns dos projetos que já realizei:
 ![Software](https://skillicons.dev/icons?i=idea,notion,npm,git,pycharm,robloxstudio,sublime,vite,vscode&theme=dark)
 #### Discord
 ![Discord](https://skillicons.dev/icons?i=discord,bots,discordjs&theme=dark)
+-->
