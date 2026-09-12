@@ -40,7 +40,8 @@ Easy API Consumer – Uma biblioteca Node.js para requisições HTTP, autentica�
 > Este é um projeto pessoal, que é atualizado sempre que necessito de uma nova funcionabilidade, mas estou aberto a receber sugestões.
 
 > [NPM](https://npmjs.com/package/easy-api-consumer)\
-> [GitHub REPO](https://github.com/open-ylorde/easy-api-consumer)
+> [GitHub REPO](https://github.com/open-ylorde/easy-api-consumer)\
+> [DOCS](https://eac.ylorde.com.br)
 ---
 
 ## Ferramentas e Tecnologias
